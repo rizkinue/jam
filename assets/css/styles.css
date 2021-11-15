@@ -7,7 +7,7 @@
   --hue-color: 240;
 
   --first-color: hsl(var(--hue-color), 53%, 49%);
-  --title-color: hsl(var(--hue-color), 53%, 15%);
+  --title-color: hsl(var(--hue-color), 100%, 33%);
   --text-color: hsl(var(--hue-color), 12%, 35%);
   --text-color-light: hsl(var(--hue-color), 12%, 65%);
   --white-color: #FFF;
